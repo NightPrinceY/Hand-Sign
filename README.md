@@ -1,9 +1,6 @@
 # Hand-Sign
-Creating an interactive and visually appealing README file for your Sign Language Recognition model can enhance understanding and engagement. Here’s a structured example you can use, incorporating Markdown, visualizations, and links to interactive tools like Jupyter Notebooks or Google Colab. 
 
-### README.md
 
-```markdown
 # Sign Language Recognition Model
 
 This project implements a Convolutional Neural Network (CNN) for recognizing American Sign Language (ASL) fingerspelling using the Sign MNIST dataset. The model is trained to classify 26 hand gestures corresponding to the letters A-Z.
